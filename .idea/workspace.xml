@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dbe3d259-fae8-47b5-ad35-86675872ac83" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/BookingPlaneTicket.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Hackathon.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/Báo cáo ASM - Vương Minh Tuấn.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/JS.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/SnowBee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/DSAA/ts/lession1.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/DSAA/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lab1/.js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lab1/.js/dangnhap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lab1/html/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lab1/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lab1/js/dangnhap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lab1/ts/app.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lab1/ts/dangnhap.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lab1/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lab2/css/sp.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lab2/html/example.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lab2/html/sp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lab2/img/laptop.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lab2/js/example.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lab2/js/sp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lab2/ts/example.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lab2/ts/sp.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lab2/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/html/lession1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/html/lession2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/html/lession3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/html/lession4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/html/lession5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/js/lession1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/js/lession10.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/js/lession11.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/js/lession12.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/js/lession13.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/js/lession2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/js/lession3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/js/lession4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/js/lession5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/js/lession6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/ts/lession1.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/ts/lession10.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/ts/lession11.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/ts/lession12.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/ts/lession13.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/ts/lession14.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/ts/lession2.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/ts/lession3.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/ts/lession4.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/ts/lession5.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/ts/lession6.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/tsconfig.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2nCDHSwAXTPjpNwuF5SBRcthjM2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;H:/Hackathon&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;b392de3eac4b77d15e782893d97db3e3&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="BookingPlaneTicketApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="BookingPlaneTicket" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.src.BookingPlaneTicket.BookingPlaneTicketApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbe3d259-fae8-47b5-ad35-86675872ac83" name="Changes" comment="" />
+      <created>1728468077861</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728468077861</updated>
+      <workItem from="1728468082064" duration="300000" />
+      <workItem from="1728468475981" duration="40000" />
+      <workItem from="1728469874609" duration="53000" />
+      <workItem from="1728470615336" duration="49000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
