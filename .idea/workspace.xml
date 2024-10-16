@@ -5,62 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dbe3d259-fae8-47b5-ad35-86675872ac83" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/BookingPlaneTicket.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Hackathon.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/Báo cáo ASM - Vương Minh Tuấn.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/JS.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/SnowBee" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/DSAA/ts/lession1.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/DSAA/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lab1/.js/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lab1/.js/dangnhap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lab1/html/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lab1/js/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lab1/js/dangnhap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lab1/ts/app.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lab1/ts/dangnhap.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lab1/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lab2/css/sp.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lab2/html/example.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lab2/html/sp.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lab2/img/laptop.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lab2/js/example.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lab2/js/sp.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lab2/ts/example.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lab2/ts/sp.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lab2/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/html/lession1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/html/lession2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/html/lession3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/html/lession4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/html/lession5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/js/lession1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/js/lession10.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/js/lession11.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/js/lession12.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/js/lession13.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/js/lession2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/js/lession3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/js/lession4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/js/lession5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/js/lession6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/ts/lession1.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/ts/lession10.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/ts/lession11.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/ts/lession12.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/ts/lession13.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/ts/lession14.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/ts/lession2.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/ts/lession3.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/ts/lession4.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/ts/lession5.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/ts/lession6.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/TypeScript/Lession/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/BookingPlaneTicket/src/main/java/com/src/BookingPlaneTicket/api/TestAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/BookingPlaneTicket/src/main/java/com/src/BookingPlaneTicket/api/TestAPI.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,6 +46,10 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;last_opened_file_path&quot;: &quot;H:/Hackathon&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;spring.configuration.checksum&quot;: &quot;b392de3eac4b77d15e782893d97db3e3&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -126,6 +76,8 @@
       <workItem from="1728468475981" duration="40000" />
       <workItem from="1728469874609" duration="53000" />
       <workItem from="1728470615336" duration="49000" />
+      <workItem from="1728635822409" duration="993000" />
+      <workItem from="1728658895838" duration="46000" />
     </task>
     <servers />
   </component>
